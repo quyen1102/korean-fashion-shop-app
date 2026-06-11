@@ -1,0 +1,140 @@
+{
+  "appName": "SeoulStyle AI",
+  "discoverKoreanFashion": "Discover Korean Fashion",
+  "discoverKoreanFashionDesc": "Explore handpicked style trends straight from the heart of Seoul.",
+  "aiPicksYourStyle": "AI Picks Your Style",
+  "aiPicksYourStyleDesc": "Get personalized style recommendations tailored to your taste profile.",
+  "shopFasterEasier": "Shop Faster & Easier",
+  "shopFasterEasierDesc": "Enjoy a seamless local shopping experience with simulated payment.",
+  "chooseLanguage": "Choose your language",
+  "tiengViet": "Tiếng Việt",
+  "hanQuoc": "한국어",
+  "tiengAnh": "English",
+  "continueBtn": "Continue",
+  "skip": "Skip",
+  "getStarted": "Get Started",
+  "welcomeBack": "Welcome back",
+  "loginSubtitle": "Sign in to access your personalized fashion feed",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "continueAsGuest": "Continue as Demo User",
+  "or": "or",
+  "emailError": "Please enter a valid email",
+  "passwordError": "Password must be at least 6 characters",
+  "stylePrefTitle": "What style do you like?",
+  "stylePrefSubtitle": "Select styles that match your everyday look",
+  "itemsPrefTitle": "What items are you interested in?",
+  "pricePrefTitle": "Preferred price range",
+  "saveAndContinue": "Save and Continue",
+  "homeTitle": "Find your style",
+  "homeGreeting": "Hi, {name} 👋",
+  "@homeGreeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "searchHint": "Search products...",
+  "aiPicksForYou": "AI Picks for You",
+  "trendingInKorea": "Trending in Korea",
+  "discountToday": "Discount Today",
+  "viewAll": "View All",
+  "search": "Search",
+  "filter": "Filter",
+  "sort": "Sort",
+  "productsFound": "{count} products found",
+  "@productsFound": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noProductsFound": "No products found",
+  "tryAnotherKeyword": "Try another keyword or category",
+  "productDetail": "Product Detail",
+  "addToCart": "Add to Cart",
+  "addedToCart": "Added to cart!",
+  "viewCart": "View Cart",
+  "size": "Size",
+  "color": "Color",
+  "description": "Description",
+  "similarProducts": "Similar Products",
+  "aiReasonStyleMatch": "Matches your interest in {style} style.",
+  "@aiReasonStyleMatch": {
+    "placeholders": {
+      "style": {
+        "type": "String"
+      }
+    }
+  },
+  "aiReasonTrending": "This item is currently trending in Korea.",
+  "aiReasonSale": "On sale today with a special discount.",
+  "aiReasonDefault": "Handpicked for your style profile.",
+  "myCart": "My Cart",
+  "cartEmpty": "Your cart is empty",
+  "exploreFashionNow": "Start exploring Korean fashion now",
+  "subtotal": "Subtotal",
+  "discount": "Discount",
+  "shippingFee": "Shipping Fee",
+  "total": "Total",
+  "checkout": "Checkout",
+  "shippingAddress": "Shipping Address",
+  "paymentMethod": "Payment Method",
+  "payNow": "Pay Now",
+  "processingPayment": "Processing payment...",
+  "paymentSuccessful": "Payment Successful!",
+  "orderId": "Order ID: {id}",
+  "@orderId": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "estimatedDelivery": "Estimated delivery: 3–5 days",
+  "viewOrderDetails": "View Order History",
+  "backToHome": "Back to Home",
+  "myOrders": "My Orders",
+  "orderStatusProcessing": "Processing",
+  "orderStatusDelivered": "Delivered",
+  "noOrdersYet": "No orders yet",
+  "timeToShop": "Time to shop for your favorite items!",
+  "profile": "Profile",
+  "myShopping": "My Shopping",
+  "preferences": "Preferences",
+  "stylePreferences": "Style Preferences",
+  "language": "Language",
+  "logout": "Logout",
+  "logoutConfirm": "Are you sure you want to logout?",
+  "cancel": "Cancel",
+  "appVersion": "SeoulStyle AI v1.0.0 — Demo",
+  "comingSoon": "Feature coming soon!",
+  "priceBudget": "Budget",
+  "priceMedium": "Medium",
+  "pricePremium": "Premium",
+  "aiPicksTitle": "AI Picks for You",
+  "aiPicksSubtitle": "Based on your style profile",
+  "wishlistTitle": "Wishlist",
+  "wishlistEmpty": "No saved items yet",
+  "profileTitle": "Profile",
+  "homeLabel": "Home",
+  "searchLabel": "Search",
+  "aiPicksLabel": "AI Picks",
+  "cartLabel": "Cart",
+  "profileLabel": "Profile",
+  "edit": "Edit",
+  "categories": "Categories",
+  "budget": "Budget",
+  "stylePrefRequired": "Style Profile Required",
+  "stylePrefRequiredDesc": "Set up your style profile to enable personalized AI fashion recommendations.",
+  "setupStyleProfile": "Setup Style Profile",
+  "wishlistEmptyDesc": "Tap the heart icon on any product to save it to your wishlist.",
+  "exploreProducts": "Explore Products",
+  "appSection": "App",
+  "aboutApp": "About SeoulStyle AI",
+  "aboutDesc": "SeoulStyle AI is a high-fidelity fashion shopping application demonstration designed for university graduation/presentation.\n\nKey features:\n• Korean-style premium minimal aesthetics\n• Rule-based mock AI personalization algorithm\n• Multi-language localization (EN / VI / KO)\n• Offline-first design with local SQLite / SharedPreferences mock repositories",
+  "close": "Close"
+}

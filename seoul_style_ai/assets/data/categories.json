@@ -1,0 +1,9 @@
+[
+  { "id": "all", "name": "All" },
+  { "id": "tops", "name": "Tops" },
+  { "id": "pants", "name": "Pants" },
+  { "id": "dresses", "name": "Dresses" },
+  { "id": "shoes", "name": "Shoes" },
+  { "id": "bags", "name": "Bags" },
+  { "id": "accessories", "name": "Accessories" }
+]

@@ -1,0 +1,140 @@
+{
+  "appName": "SeoulStyle AI",
+  "discoverKoreanFashion": "Khám phá Thời trang Hàn Quốc",
+  "discoverKoreanFashionDesc": "Khám phá các xu hướng thời trang được tuyển chọn trực tiếp từ Seoul.",
+  "aiPicksYourStyle": "AI Gợi ý Phong cách của Bạn",
+  "aiPicksYourStyleDesc": "Nhận các gợi ý thời trang cá nhân hóa phù hợp với sở thích của bạn.",
+  "shopFasterEasier": "Mua sắm Nhanh chóng & Dễ dàng",
+  "shopFasterEasierDesc": "Trải nghiệm mua sắm mượt mà cùng tính năng thanh toán mô phỏng.",
+  "chooseLanguage": "Chọn ngôn ngữ của bạn",
+  "tiengViet": "Tiếng Việt",
+  "hanQuoc": "한국어",
+  "tiengAnh": "English",
+  "continueBtn": "Tiếp tục",
+  "skip": "Bỏ qua",
+  "getStarted": "Bắt đầu ngay",
+  "welcomeBack": "Chào mừng trở lại",
+  "loginSubtitle": "Đăng nhập để xem danh sách gợi ý thời trang dành riêng cho bạn",
+  "email": "Email",
+  "password": "Mật khẩu",
+  "login": "Đăng nhập",
+  "continueAsGuest": "Dùng tài khoản Demo",
+  "or": "hoặc",
+  "emailError": "Vui lòng nhập email hợp lệ",
+  "passwordError": "Mật khẩu phải chứa ít nhất 6 ký tự",
+  "stylePrefTitle": "Bạn thích phong cách nào?",
+  "stylePrefSubtitle": "Chọn các phong cách phù hợp với trang phục hàng ngày của bạn",
+  "itemsPrefTitle": "Bạn quan tâm sản phẩm nào?",
+  "pricePrefTitle": "Mức giá mong muốn",
+  "saveAndContinue": "Lưu và Tiếp tục",
+  "homeTitle": "Tìm kiếm phong cách",
+  "homeGreeting": "Xin chào, {name} 👋",
+  "@homeGreeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "searchHint": "Tìm sản phẩm...",
+  "aiPicksForYou": "AI gợi ý cho bạn",
+  "trendingInKorea": "Thịnh hành tại Hàn Quốc",
+  "discountToday": "Khuyến mãi hôm nay",
+  "viewAll": "Xem tất cả",
+  "search": "Tìm kiếm",
+  "filter": "Bộ lọc",
+  "sort": "Sắp xếp",
+  "productsFound": "Tìm thấy {count} sản phẩm",
+  "@productsFound": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noProductsFound": "Không tìm thấy sản phẩm",
+  "tryAnotherKeyword": "Thử tìm kiếm với từ khóa hoặc danh mục khác",
+  "productDetail": "Chi tiết sản phẩm",
+  "addToCart": "Thêm vào giỏ hàng",
+  "addedToCart": "Đã thêm vào giỏ hàng!",
+  "viewCart": "Xem giỏ hàng",
+  "size": "Kích thước",
+  "color": "Màu sắc",
+  "description": "Mô tả",
+  "similarProducts": "Sản phẩm tương tự",
+  "aiReasonStyleMatch": "Được gợi ý vì bạn thích phong cách {style}.",
+  "@aiReasonStyleMatch": {
+    "placeholders": {
+      "style": {
+        "type": "String"
+      }
+    }
+  },
+  "aiReasonTrending": "Sản phẩm này hiện đang rất hot ở Hàn Quốc.",
+  "aiReasonSale": "Đang được ưu đãi giảm giá hôm nay.",
+  "aiReasonDefault": "Được tuyển chọn riêng cho phong cách của bạn.",
+  "myCart": "Giỏ hàng",
+  "cartEmpty": "Giỏ hàng trống",
+  "exploreFashionNow": "Khám phá các sản phẩm thời trang Hàn Quốc ngay thôi",
+  "subtotal": "Tạm tính",
+  "discount": "Giảm giá",
+  "shippingFee": "Phí vận chuyển",
+  "total": "Tổng tiền",
+  "checkout": "Thanh toán",
+  "shippingAddress": "Địa chỉ giao hàng",
+  "paymentMethod": "Phương thức thanh toán",
+  "payNow": "Thanh toán ngay",
+  "processingPayment": "Đang xử lý giao dịch...",
+  "paymentSuccessful": "Thanh toán thành công!",
+  "orderId": "Mã đơn hàng: {id}",
+  "@orderId": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "estimatedDelivery": "Thời gian giao hàng dự kiến: 3–5 ngày",
+  "viewOrderDetails": "Xem lịch sử đơn hàng",
+  "backToHome": "Về Trang chủ",
+  "myOrders": "Đơn hàng của tôi",
+  "orderStatusProcessing": "Đang xử lý",
+  "orderStatusDelivered": "Đã giao hàng",
+  "noOrdersYet": "Chưa có đơn hàng nào",
+  "timeToShop": "Đã đến lúc sắm ngay các món đồ bạn yêu thích!",
+  "profile": "Tài khoản",
+  "myShopping": "Mua sắm",
+  "preferences": "Sở thích",
+  "stylePreferences": "Phong cách yêu thích",
+  "language": "Ngôn ngữ",
+  "logout": "Đăng xuất",
+  "logoutConfirm": "Bạn có chắc chắn muốn đăng xuất?",
+  "cancel": "Hủy bỏ",
+  "appVersion": "SeoulStyle AI v1.0.0 — Bản Demo",
+  "comingSoon": "Tính năng đang được phát triển!",
+  "priceBudget": "Giá rẻ",
+  "priceMedium": "Trung bình",
+  "pricePremium": "Cao cấp",
+  "aiPicksTitle": "Gợi ý của AI",
+  "aiPicksSubtitle": "Dựa trên phong cách của bạn",
+  "wishlistTitle": "Danh sách yêu thích",
+  "wishlistEmpty": "Danh sách trống",
+  "profileTitle": "Tài khoản",
+  "homeLabel": "Trang chủ",
+  "searchLabel": "Tìm kiếm",
+  "aiPicksLabel": "Gợi ý AI",
+  "cartLabel": "Giỏ hàng",
+  "profileLabel": "Tài khoản",
+  "edit": "Chỉnh sửa",
+  "categories": "Danh mục",
+  "budget": "Ngân sách",
+  "stylePrefRequired": "Yêu cầu Hồ sơ Phong cách",
+  "stylePrefRequiredDesc": "Thiết lập hồ sơ phong cách của bạn để kích hoạt gợi ý thời trang cá nhân hóa từ AI.",
+  "setupStyleProfile": "Thiết lập Hồ sơ",
+  "wishlistEmptyDesc": "Nhấn vào biểu tượng trái tim trên bất kỳ sản phẩm nào để lưu vào danh sách yêu thích.",
+  "exploreProducts": "Khám phá Sản phẩm",
+  "appSection": "Ứng dụng",
+  "aboutApp": "Giới thiệu SeoulStyle AI",
+  "aboutDesc": "SeoulStyle AI là bản demo ứng dụng mua sắm thời trang cao cấp của Hàn Quốc được thiết kế để phục vụ cho các bài thuyết trình/tốt nghiệp đại học.\n\nTính năng chính:\n• Phong cách thẩm mỹ tối giản, cao cấp kiểu Hàn Quốc\n• Thuật toán cá nhân hóa AI giả lập theo luật\n• Hỗ trợ đa ngôn ngữ (Anh / Việt / Hàn)\n• Thiết kế offline-first lưu trữ dữ liệu giả lập qua SharedPreferences / JSON local",
+  "close": "Đóng"
+}
